@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=360, initial-scale=1.0">
+    <title>Other Project - Liska Munt</title>
+</head>
+<body style="background-color: blue;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">
+    <h1>Liska Munt</h1>
+    <h3 class="liska-count">0 Liskas</h3>
+    <button onclick="liska++" type="submit">0</button>
+    <h3>Upgrades</h3>
+    <h4>Coming Soon</h4>
+    <details>
+        <summary>4 languages</summary>
+        <a href="/liska-munt/">English</a>
+    </details>
+    <script>
+        var liska = 0;
+
+        setInterval(() => {
+            document.querySelector(".liska-count").innerHTML = `${liska} Liskas`
+        }, 500);
+    </script>
+</body>
+</html>
