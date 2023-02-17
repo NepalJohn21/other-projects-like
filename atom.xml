@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title>Other Projects Like</title>
+  <link href="https://nepaljohn21.github.io/other-projects-like/"/>
+  <updated>2023-02-17T09:08:00-08:00</updated>
+  <author>
+    <name>nepaljohn21</name>
+  </author>
+  <id>https://nepaljohn21.github.io/other-projects-like/</id>
+
+   <entry>
+    <title>Home</title>
+    <link href="https://nepaljohn21.github.io/other-projects-like/"/>
+    <id>https://nepaljohn21.github.io/other-projects-like/</id>
+    <updated>2023-02-17T09:08:00-08:00</updated>
+    <summary>Home - the like something...</summary>
+  </entry>
+  <entry>
+    <title>Liska Munt</title>
+    <link href="https://nepaljohn21.github.io/other-projects-like/liska-munt/"/>
+    <id>https://nepaljohn21.github.io/other-projects-like/liska-munt/pt/</id>
+    <updated>2023-02-17T09:08:00-08:00</updated>
+    <summary>Liska Munt English</summary>
+  </entry>
+  <entry>
+    <title>Liska Munt PT</title>
+    <link href="https://nepaljohn21.github.io/other-projects-like/liska-munt/pt/"/>
+    <id>https://nepaljohn21.github.io/other-projects-like/liska-munt/pt/</id>
+    <updated>2023-02-17T09:08:00-08:00</updated>
+    <summary>Liska Munt Portugese</summary>
+  </entry>
+  <entry>
+    <title>Liska Munt ES</title>
+    <link href="https://nepaljohn21.github.io/other-projects-like/liska-munt/es/"/>
+    <id>https://nepaljohn21.github.io/other-projects-like/liska-munt/es/</id>
+    <updated>2023-02-17T09:08:00-08:00</updated>
+    <summary>Liska Munt Español</summary>
+  </entry>
+  <entry>
+    <title>Liska Munt DU</title>
+    <link href="https://nepaljohn21.github.io/other-projects-like/liska-munt/du/"/>
+    <id>https://nepaljohn21.github.io/other-projects-like/liska-munt/du/</id>
+    <updated>2023-02-17T09:08:00-08:00</updated>
+    <summary>Liska Munt Nederlands?</summary>
+  </entry>
+
+</feed>
